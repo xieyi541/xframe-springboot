@@ -1,6 +1,9 @@
 .classpath  
 .project  
 .settings/
+.idea/
+*.iml
+*.iml
 xframe-springboot-jdbc/target/
 xframe-springboot-mybatis/target/
 xframe-springboot-redis/target/
